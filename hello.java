@@ -1,3 +1,6 @@
+//For command line git tutorial
+//Local repository modification
+
 public class Hello{
 
 	public static void main(String[] args){
@@ -7,5 +10,6 @@ public class Hello{
 		System.out.println("Tell me the True!");
 		System.out.println("fuckgin money show");
 		System.out.println("Tell her world");
+
 	}
 }
