@@ -4,6 +4,8 @@ public class Hello{
 
 		System.out.println("hello");
 		System.out.println("hello2");
-		System.out.pringln("Tell me the True!");
+		System.out.println("Tell me the True!");
+		System.out.println("fuckgin money show");
+		System.out.println("Tell her world");
 	}
 }
