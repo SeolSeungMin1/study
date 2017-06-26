@@ -4,5 +4,6 @@ public class Hello{
 
 		System.out.println("hello");
 		System.out.println("hello2");
+		System.out.pringln("Tell me the True!");
 	}
 }
